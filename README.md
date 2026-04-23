@@ -4,9 +4,9 @@ Fadi Rizk, This is the Version control for the final test
 
 Fadi Rizk: here are the instructions for the final test repository
 
-**Issue 1**: This  is used for python code for the web app
+**Issue 1**: RoadmapPage.html  is used for code for the web app
 
-**Issue 2**: This  is used to add the template for the web app
+**Issue 2**: index.html  is used as the template for the web app
 
 # Reflection: Version Control and Project Management
 
